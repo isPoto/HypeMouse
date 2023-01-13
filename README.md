@@ -1,6 +1,9 @@
 # HypeMouse
 Your mouse automatically dances, preventing your computer from forcing the screen lock
 
+![hypeMouse](https://user-images.githubusercontent.com/59009389/212214294-3160b8ab-48ff-412f-8c9e-1e7b9f2477d3.png)
+
+
 Your company may restrict your computer to automatically lock the screen when it is idle, you therefore often need to unlock your computer repeatedly and you are annoyed with such measures.
 
 The online game you're playing detects that you're not operating and determine that you're offline, causing you to losees.
