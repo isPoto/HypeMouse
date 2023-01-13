@@ -10,7 +10,7 @@ You need to make your mouse move automatically to make sure the programs on your
 hypeMouse makes your mouse dance automatically until you take over the computer. Keeps your computer programs from causing you trouble just because you leave
 
 Usage  
-Unzip hypeMouseByPotoVersion ** .zip to a new blank folder
+Unzip hypeMouseByPotoVersion ** .zip to a new blank folder  
 Run hypeMouse.exe and your mouse will automatically dance until you click Esc to exit hypeMouse
 
 <a href="https://ko-fi.com/s/ec4928b99a" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/210224231-4ae8813c-844c-4ce5-ad7e-fd079a893a4a.png" alt="Buy it" title="Buy it"></a>
