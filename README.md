@@ -1,4 +1,4 @@
-# hypeMouse
+# HypeMouse
 Your mouse automatically dances, preventing your computer from forcing the screen lock
 
 Your company may restrict your computer to automatically lock the screen when it is idle, you therefore often need to unlock your computer repeatedly and you are annoyed with such measures.
